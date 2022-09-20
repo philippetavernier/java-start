@@ -1,0 +1,1000 @@
+  271  ls kali-linux-2021.2-rpi4-nexmon.img.xz 
+  272  cd ..
+  273  clear
+  274  cd Downloads/
+  275  ls kali-linux-2021.2-rpi4-nexmon.img.xz 
+  276  lsblk 
+  277  xzcat kali-linux-2021.2-rpi4-nexmon.img.xz |sudo dd of=/dev/mmcblk0p1 bs=4M status=progress
+  278  lsblk
+  279  sudo gparted
+  280  md5sum kali-linux-2021.2-rpi4-nexmon.img.xz 
+  281  md5sum kali-linux-2021.2-rpi4-nexmon\ \(1\).img.xz 
+  282  sudo apt-get install asciiquarium
+  283  sudo snap install asciiquarium
+  284  asciiquarium 
+  285  rtfm
+  286  sudo apt-get install rtfm
+  287  snap install install rtfm
+  288  snap install rtfm
+  289  sudo snap install rtfm
+  290  [ whereis my brain?                    
+  291  asciiquarium 
+  292  sudo apt-get install inkdscape
+  293  sudo apt-get install inkscape
+  294  cd ..
+  295  npm install svgexport -g
+  296  sudo npm install svgexport -g
+  297  sudo apt-get install inkscape
+  298  ls
+  299  sudo npm install svgexport -g
+  300  npm install svgexport -g
+  301  ping raspberrypi.local
+  302  ping kali.local
+  303  ping kali
+  304  ping kali.local
+  305  sudo apt-get install yakala
+  306  sudo apt-get install nmap
+  307  ip addre
+  308  nmap 192.168.15.0/24
+  309  ping 192.168.15.18
+  310  ping ssh@192.168.15.18
+  311  ping kali@192.168.15.18
+  312  ssh kali@192.168.15.18
+  313  nmap 192.168.15.0/24
+  314  ssh kali@192.168.15.18
+  315  clear
+  316  ssh kali@192.168.15.18
+  317  python3.8 '/home/phil/prog/async_flask/application1.py'
+  318  history
+  319  python3.8 '/home/phil/prog/async_flask/application1.py'
+  320  python3.8 application1.py 
+  321  python3.8 '/home/phil/prog/async_flask/application1.py'
+  322  python3.8 application1.py 
+  323  python3.8 application2.py 
+  324  python '/home/phil/prog/WORKING-DIR/thumb-docker-multi.py'
+  325  python3 '/home/phil/prog/WORKING-DIR/thumb-docker-multi.py'
+  326  python3
+  327  python3 '/home/phil/prog/WORKING-DIR/thumb-ssh.py'
+  328  sudo apt-get install  convert
+  329  sudo apt-get update
+  330  sudo apt-get install  convert
+  331  sudo apt-get install  imagemagick
+  332  python3 '/home/phil/prog/WORKING-DIR/thumb-docker-multi.py'
+  333  cd images/svg
+  334  cd images/
+  335  cd svg
+  336  ls
+  337  cd SVG/
+  338  ls
+  339  convert output-docker.svg output.jpg
+  340  convert output-docker.svg output.png
+  341  convert -version
+  342  display output-docker.svg 
+  343  convert -version
+  344  convert output-docker.svg output.png
+  345  convert -version
+  346  sudo apt-get remove convert
+  347  sudo apt-get remove imagemagick-6-common 
+  348  convert -version
+  349  convert output-docker.svg output.png
+  350  cd ..
+  351  ls
+  352  convert -version
+  353  python3 '/home/phil/prog/WORKING-DIR/test-moviepy.py'
+  354  sudo apt-get install imagemagick-6-common 
+  355  python3 '/home/phil/prog/WORKING-DIR/test-moviepy.py'
+  356  sudo apt-get install imagemagick
+  357  convert
+  358  convert -version
+  359  python3 '/home/phil/prog/WORKING-DIR/test-moviepy.py'
+  360  python3 '/home/phil/prog/WORKING-DIR/thumb-docker-multi.py'
+  361  convert -version
+  362  cd images/SVG/
+  363  convert output-docker-install.svg test.jpg
+  364  convert-im6 output-docker-install.svg test.jpg
+  365  cat output-docker-install.svg
+  366  magick identify -verbose output-docker-install.svg 
+  367   identify -verbose output-docker-install.svg 
+  368  sudo apt-get install magick
+  369  cd ..
+  370  cd ,,
+  371  python3 '/home/phil/prog/WORKING-DIR/thumb-bash.py'
+  372  python3.8 '/home/phil/prog/WORKING-DIR/thumb-bash.py'
+  373  convert -version
+  374  python3.8 '/home/phil/prog/WORKING-DIR/thumb-multisystem.py'
+  375  convert -version
+  376  ls
+  377  cd SVG/
+  378  ls
+  379  inkscape output-docker.svg --export-extension=jpg
+  380  inkscape output-docker.svg --export-type=jpg
+  381  inkscape --export-type=png --export-filename=-output-docker.svg | convert - filename.jpg
+  382  inkscape --export-type=png --export-filename=-output-docker.svg
+  383  inkscape --export-type=png --export-filename=-output-docker.svg | convert - filename.jpg
+  384  inkscape --export-type=png --export-filename=-output-docker.svg 
+  385  inkscape --export-type="png" --export-filename=-output-docker.svg 
+  386  sudo apt-get install wireshark
+  387  wireshark 
+  388  sudo wireshark 
+  389  sudo apt install gnome-shell-extension-draw-on-your-screen
+  390  sudo apt install gnome-tweaks
+  391  sudo apt-get install rufus
+  392  ssh sti2d@192.168.1.202
+  393  ifconfi
+  394  ip addr
+  395  ssh sti2d@192.168.1.202
+  396  ssh phil@192.168.15.58
+  397  ssh sti2d@192.168.1.202
+  398  sudo apt-get install nagios-nrpe-server nagios-plugins -y
+  399  sudo vi /etc/nagios/nrpe.cfg
+  400  sudo service nagios restart
+  401  sudo service nagios-nrpe-server restart
+  402  ifconfig
+  403  ip adddr
+  404  ip add
+  405  ssh phil@192.168.15.58
+  406  sudo apt-get install rufus
+  407  nmap -O 192.168.15.O
+  408  nmap -O 192.168.15.O/@$
+  409  nmap -O 192.168.15.O/24
+  410  sudo nmap -O 192.168.15.O/24
+  411  ip addr
+  412  sudo nmap -O 192.168.15.O/24
+  413  sudo nmap  192.168.15.O/24
+  414  sudo nmap 192.168.15.O/24
+  415  sudo nmap 192.168.15.24/24
+  416  sudo nmap -O 192.168.15.24/24
+  417  ssh root@192.168.15.27
+  418  ssh kali@192.168.15.27
+  419  ssh kali@192.168.15.17
+  420  ssh kali@192.168.15.27
+  421  ping 192.168.15.270
+  422  ssh kali@192.168.15.17
+  423  sudo nmap -O 192.168.15.0/24
+  424  sudo nmap 192.168.15.0/24
+  425  sudo nmap -O 192.168.15.0/2
+  426  sudo nmap -O 192.168.15.0/24
+  427  ssh 192.168.15.58
+  428  ping free.fr
+  429  sudo '/home/phil/Downloads/arduino-1.8.16-linuxaarch64/arduino-1.8.16/arduino' 
+  430  sudo '/home/phil/Downloads/arduino-1.8.16-linuxaarch64/arduino-1.8.16/install.sh' 
+  431  sudo arduino
+  432  sudo arduino/arduino-1.8.15-linux64/arduino-1.8.15/arduino
+  433  sudo chmod 777 /dev/ttyACM0 
+  434  '/home/phil/arduino-ide_2.0.0-beta.11_Linux_64bit/arduino-ide' 
+  435  sudo arduino/arduino-1.8.15-linux64/arduino-1.8.15/arduino
+  436  mkdir SCRIPT
+  437  cd SCRIPT/
+  438  nano convert.sh
+  439  sudo chmod 777 convert.sh 
+  440  ./convert.sh 
+  441  nano convert.sh
+  442  ./convert.sh 
+  443  nano convert.sh
+  444  ./convert.sh 
+  445  ip add
+  446  sudo Downloads/arduino-1.8.16-linuxaarch64/arduino-1.8.16/arduino
+  447  sudo arduino
+  448  sudo Downloads/arduino-1.8.16-linuxaarch64/arduino-1.8.16/arduino
+  449  sudo chmod 777 /dev/ttyACM0 
+  450  arduino
+  451  sudo'/home/phil/Downloads/arduino-1.8.16-linux64/arduino-1.8.16/arduino' 
+  452  sudo '/home/phil/Downloads/arduino-1.8.16-linux64/arduino-1.8.16/install.sh' 
+  453  arduino
+  454  sudo arduino
+  455  '/home/phil/Downloads/arduino-1.8.16-linux64/arduino-1.8.16/arduino' 
+  456  sudo chmod 777 /dev/ttyACM0 
+  457  '/home/phil/Downloads/arduino-1.8.16-linux64/arduino-1.8.16/arduino' 
+  458  sudo chmod 777 /dev/ttyACM0 
+  459  '/home/phil/Downloads/arduino-1.8.16-linux64/arduino-1.8.16/arduino' 
+  460  udevadm monitor --subsystem-match=usb --property | grep -E "REVISION|VENDOR|MODEL"
+  461  lsusb -d 2341:
+  462  dmesg | tail
+  463  sudo chmod 777 /dev/ttyACM0 
+  464  ls -l /dev/ttyACM0 
+  465  sudo chown phil:phil /dev/ttyACM0 
+  466  ls -l /dev/ttyACM0 
+  467  sudo chmod 777 /dev/ttyACM0 
+  468  sudo chown phil:phil /dev/ttyACM0 
+  469  ls -l /dev/ttyACM0 
+  470  sudo chmod 777 /dev/ttyACM0 
+  471  locate arduino
+  472  arduino
+  473  sudo '/home/phil/Downloads/arduino-1.8.16-linux64/arduino-1.8.16/arduino' 
+  474  sudo '/home/phil/Downloads/arduino-1.8.15-linux64/arduino-1.8.15/arduino' 
+  475  http://example.com/(rLLLLhttp://example.com/(
+  476  flask run
+  477  cut1b='1:20'
+  478  python3.8 '/home/phil/prog/WORKING-DIR/video-concatenate.py'
+  479  python3.8'/home/phil/prog/WORKING-DIR/video-speed.py'
+  480  python3.8 '/home/phil/prog/WORKING-DIR/video-speed.py'
+  481  pip3 install gTTS
+  482  python3,8 '/home/phil/prog/WORKING-DIR/film-ttspy'
+  483  python3.8 '/home/phil/prog/WORKING-DIR/film-ttspy'
+  484  python3.8 '/home/phil/prog/WORKING-DIR/film-tts.py'
+  485  ping free.fr
+  486  python3.8 '/home/phil/prog/WORKING-DIR/film-tts.py'
+  487  sudo apt-get install mpeg123
+  488  sudo apt-get install mpe123
+  489  sudo apt-get install mpg123
+  490  sudo apt --fix-broken install
+  491  sudo apt-get install mpg123
+  492  mpeg123 hello.mp3 
+  493  mpg123 hello.mp3 
+  494  python3.8 '/home/phil/prog/WORKING-DIR/film-tts.py'
+  495  mpg123 hello.mp3 
+  496  python3.8 '/home/phil/prog/WORKING-DIR/film-tts.py'
+  497  mpg123 hello.mp3 
+  498  python3.8 '/home/phil/prog/WORKING-DIR/remove-cr.py'
+  499  touch install-cr.py
+  500  python3.8 '/home/phil/prog/WORKING-DIR/remove-cr.py'
+  501  touch install-cr.txt
+  502  python3.8 '/home/phil/prog/WORKING-DIR/remove-cr.py'
+  503  cat install-cr.txt 
+  504  awk '{ printf "%s", $0 }' install-minecraft.txt 
+  505  python3.8 '/home/phil/prog/WORKING-DIR/video-concatenate-tts.py'
+  506  awk '{ printf '%s', $0 }' install-minecraft.txt 
+  507  awk '{ printf "%s", $0 }' install-minecraft.txt 
+  508  awk '{ printf "%s", $0 }' install-minecraft.txt >install1.txt
+  509  cat install1.txt 
+  510  python3.8 '/home/phil/prog/WORKING-DIR/video-concatenate-tts.py'
+  511  [A
+  512  python3.8 '/home/phil/prog/WORKING-DIR/video-concatenate-tts.py'
+  513  python3.8 '/home/phil/prog/WORKING-DIR/film-tts.py'
+  514  ping free.fr
+  515  python3.8 '/home/phil/prog/WORKING-DIR/film-tts.py'
+  516  ping free.fr
+  517  python3.8 '/home/phil/prog/WORKING-DIR/film-tts.py'
+  518  python3.8 '/home/phil/prog/WORKING-DIR/video-concatenate-tts.py'
+  519  python3.8 film-tts.py 
+  520  ping free.fr
+  521  python3.8 film-tts.py 
+  522  python3.8 '/home/phil/prog/WORKING-DIR/video-concatenate-tts.py'
+  523  mpg123 voice.mp3 
+  524  python3.8 '/home/phil/prog/WORKING-DIR/film-tts.py' 
+  525  mpg123 voice.mp3 
+  526  python3.8 '/home/phil/prog/WORKING-DIR/addaudio.py'
+  527  ls
+  528  python3.8 '/home/phil/prog/WORKING-DIR/addaudio.py'
+  529  python3.8 '/home/phil/prog/WORKING-DIR/film-tts.py' 
+  530  python3.8 '/home/phil/prog/WORKING-DIR/addaudio.py'
+  531  python3.8 '/home/phil/prog/WORKING-DIR/film-tts.py' 
+  532  python3.8 '/home/phil/prog/WORKING-DIR/addaudio.py'
+  533  python3.8 '/home/phil/prog/WORKING-DIR/film-tts.py' 
+  534  python3.8 '/home/phil/prog/WORKING-DIR/addaudio.py'
+  535  python3.8 '/home/phil/prog/WORKING-DIR/film-tts.py' 
+  536  python3.8 '/home/phil/prog/WORKING-DIR/addaudio.py'
+  537  flask app.py 
+  538  flask run
+  539  sudo nmap -O 192.168.15.0/24
+  540  sudo nmap  192.168.15.0/24
+  541  nmap -O 192.168.15.0/24
+  542  sudo nmap -O 192.168.15.0/24
+  543  ip addr
+  544  sudo nmap -O 192.168.15.0/24
+  545  sudo nmap -O 192.168.15.0/24 
+  546  sudo nmap -O 192.168.15.0/24 grep Ras
+  547  sudo nmap -O 192.168.15.0/24 |grep Ras
+  548  ssh root@192.168.1.17
+  549  ssh kali@192.168.15.27
+  550  ssh kali@192.168.15.27
+  551  codium 
+  552  cd prog/
+  553  ls
+  554  mkdir flask2
+  555  cd flask2/
+  556  ls
+  557  ping free.fr
+  558  nano telegraf.conf
+  559  ssh phil@192.168.15.15
+  560  ssh 192.168.15.15
+  561  npm i -g md-to-pdf
+  562  sudo npm i -g md-to-pdf
+  563  npm i -g md-to-pdf
+  564  sudo chmod 777 -R /usr/local/lib/nodejs/node-v14.17.0-linux-x64/lib/node_modules
+  565  npm i -g md-to-pdf
+  566  sudo npm i md-to-pdf
+  567  sudo npm 
+  568  locate npm
+  569  npm -v
+  570  npm i -g md-to-pdf
+  571  git clone "https://github.com/simonhaenisch/md-to-pdf"
+  572  cd md-to-pdf/
+  573  npm link
+  574  sudo chown -R $USER /usr/local
+  575  npm link
+  576  md-to-pdf /home/phil/Downloads/WIFI\ INTERRO.md 
+  577  ls
+  578  cp /home/phil/Downloads/WIFI\ INTERRO.md /home/phil/Downloads/WIFI\ INTERRO2.md
+  579  sed -i -e 's/$$/$/g' /home/phil/Downloads/WIFI\ INTERRO.md
+  580  md-to-pdf /home/phil/Downloads/WIFI\ INTERRO.md 
+  581  cat /home/phil/Downloads/WIFI\ INTERRO.md 
+  582  sed -i -e 's/$$/$/g' /home/phil/Downloads/WIFI\ INTERRO.md > /home/phil/Downloads/Wifi.md
+  583  cat /home/phil/Downloads/Wifi.md 
+  584  sed -i -e 's/$$/$/g' /home/phil/Downloads/WIFI\ INTERRO.md
+  585  cat /home/phil/Downloads/WIFI\ INTERRO.md 
+  586  sed -i -e 's/$$/$/' /home/phil/Downloads/WIFI\ INTERRO.md
+  587  cat /home/phil/Downloads/WIFI\ INTERRO.md 
+  588  perl -pi -e 's/$$/$/g' /home/phil/Downloads/WIFI\ INTERRO.md
+  589  perl -pi -e 's/\$$/\$/g' /home/phil/Downloads/WIFI\ INTERRO.md
+  590  cat /home/phil/Downloads/WIFI\ INTERRO.md 
+  591  perl -pi -e 's/\$$/\$/g' /home/phil/Downloads/WIFI\ INTERRO.md
+  592  sed -i -e 's/$$/$/' /home/phil/Downloads/WIFI\ INTERRO.md
+  593  perl -pi -e 's/$$/$/' /home/phil/Downloads/WIFI\ INTERRO.md
+  594  perl -pi -e 's/$$/\$/' /home/phil/Downloads/WIFI\ INTERRO.md
+  595  cat /home/phil/Downloads/WIFI\ INTERRO.md 
+  596  ls
+  597  cd src/
+  598  ls
+  599  cd ..
+  600  perl -pi -e 's/\$\$/\$/' /home/phil/Downloads/WIFI\ INTERRO.md
+  601  cat /home/phil/Downloads/WIFI\ INTERRO.md 
+  602  perl -pi -e 's/\$\$/$/' /home/phil/Downloads/WIFI\ INTERRO.md
+  603  perl -pi -e 's/\$$/\$/' /home/phil/Downloads/WIFI\ INTERRO.md
+  604  cat /home/phil/Downloads/WIFI\ INTERRO.md 
+  605  perl -pi -e 's/\$\$/$/' /home/phil/Downloads/WIFI\ INTERRO.md
+  606  perl -pi -e 's/\\$\\$/\\$/' /home/phil/Downloads/WIFI\ INTERRO.md
+  607  perl -pi -e 's/\\$$/$/' /home/phil/Downloads/WIFI\ INTERRO.md
+  608  ping free.fr
+  609  cd ..
+  610  cd Downloads/
+  611  musicxml2ly navet.xml 
+  612  lilypond navet.ly 
+  613  chmod a+x MuseScore-3.6.2.548021370-x86_64.AppImage 
+  614  ./MuseScore-3.6.2.548021370-x86_64.AppImage 
+  615  clear
+  616  ssh phil@192.168.1.201
+  617  ls
+  618  sudo './home/phil/Downloads/arduino-1.8.16-linux64/arduino-1.8.16/arduino' 
+  619  sudo '/home/phil/Downloads/arduino-1.8.15-linux64/arduino-1.8.15/arduino' 
+  620  sudo '/home/phil/Downloads/arduino-1.8.16-linux64/arduino-1.8.16/arduino' 
+  621  sudo arduino-1.8.15-linux64/arduino-1.8.15/arduino
+  622  arduino-1.8.15-linux64/arduino-1.8.15/arduino
+  623  sudo arduino-1.8.15-linux64/arduino-1.8.15/arduino
+  624  ssh phil@192.168.15.15
+  625  ls
+  626  ssh sen@192.168.15.19
+  627  sudo apt-get install gespeaker
+  628  sudo apt-get update
+  629  sudo apt-get install gespeaker
+  630  sudo snap install gespeaker
+  631  cd Downloads/
+  632  ls
+  633  sudo dpkg -i gespeaker_0.8.6-1_all.deb 
+  634  gespeaker 
+  635  cd >.
+  636  cd ..
+  637  git clone https://github.com/muflone/gespeaker.git
+  638  cd gespeaker/
+  639  python3.8 setup.py install
+  640  python3.8 gespeaker
+  641  python3.8 gespeaker.py 
+  642  sudo add-apt-repository ppa:jerem-ferry/tts
+  643  sudo apt-get install gspeech 
+  644  sudo apt-get install espeak
+  645  sudo apt-get install espeak --fix-broke
+  646  history
+  647  git clone https://github.com/NicoHood/HoodLoader2.git
+  648  cd HoodLoader2/
+  649  ls
+  650  cd avr
+  651  ls
+  652  cd examples/
+  653  ls
+  654  cd Installation_Sketch/
+  655  ls
+  656  cat Installation_Sketch.ino 
+  657  arduino
+  658  ls
+  659  cd ..
+  660  ls
+  661  cd blink
+  662  cd Blink/
+  663  ls
+  664  cat Blink.ino 
+  665  cd ..
+  666  ls
+  667  cd HID-Bridge/
+  668  ls
+  669  cd HID-Bridge_IO/
+  670  ls
+  671  cd ..
+  672  cd ,,
+  673  cd ..
+  674  codium 
+  675  pwd
+  676  sudo chmod 777 /dev/ttyACM0 
+  677  cd ..
+  678  git clone https://github.com/SFE-Chris/UNO-HIDKeyboard-Library.git
+  679  arduino &
+  680  '/home/phil/Downloads/arduino-1.8.16-linux64/arduino-1.8.16/arduino' 
+  681  '/home/phil/Downloads/arduino-1.8.16-linux64/arduino-1.8.16/arduino' &
+  682  sudo chmod 777 /dev/ttyACM0 
+  683  sudo apt-get install dfu-programmer dfu-util
+  684  cleqr
+  685  clear
+  686  cd home/phil/Downloads/arduino-flash/arduino
+  687  cd /home/phil/Downloads/arduino-flash/arduino
+  688  ls
+  689  sudo apt-get install dfu-programmer dfu-util
+  690  ./flash 
+  691  ls
+  692  nano flash 
+  693  lsusb
+  694  sudo ./flash 
+  695  sudo dfu-programmer atmega16u2 erase
+  696  sudo apt-get install libusb-1.0
+  697  sudo dfu-programmer atmega16u2 erase
+  698  lsusb
+  699  sudo dfu-programmer atmega16u2 erase
+  700  lsusb
+  701  sudo dfu-programmer atmega16u2 erase
+  702  sudo dfu-programmer atmega16u2 flash --debug 1 Arduino-usbserial-uno.hex
+  703  sudo dfu-programmer atmega16u2 reset
+  704  '/home/phil/Downloads/arduino-1.8.16-linux64/arduino-1.8.16/arduino' &
+  705  sudo chmod 777 /dev/ttyA
+  706  sudo chmod 777 /dev/ttyACM0 
+  707  sudo dfu-programmer atmega16u2 erase
+  708  lsusb
+  709  dfu-programmer atmega16u2 erase
+  710  sudo dfu-programmer atmega16u2 erase
+  711  dfu-programmer atmega16u2 flash --debug 1 Arduino-keyboard-0.3.hex
+  712  sudo dfu-programmer atmega16u2 flash --debug 1 Arduino-keyboard-0.3.hex
+  713  sudo dfu-programmer atmega16u2 reset
+  714  sudo dfu-programmer atmega16u2 erase
+  715  lsusb
+  716  sudo dfu-programmer atmega16u2 erase
+  717  dfu-programmer atmega16u2 flash --debug 1 Arduino-usbserial-uno.hex
+  718  sudo dfu-programmer atmega16u2 flash --debug 1 Arduino-usbserial-uno.hex
+  719  sudo dfu-programmer atmega16u2 reset
+  720  sudo chmod 777 /dev/ttyACM0 
+  721  lsusb
+  722  dfu-programmer atmega16u2 erase
+  723  sudo dfu-
+  724  sudo dfu-programmer atmega16u2 reset
+  725  sudo dfu-programmer atmega16u2 erase
+  726  sudo dfu-programmer atmega16u2 flash --debug 1 Arduino-keyboard-0.3.hex
+  727  sudo dfu-programmer atmega16u2 reset
+  728  nano before-sketch-upload
+  729  chmod 777 before-sketch-upload 
+  730  ./before-sketch-upload Hello World!
+  731  Hello World!
+  732  Hello WorldHello World! World!
+  733  Hello World!
+  734  Hello WorldHello World! World!
+  735  Hello World!
+  736  Hello WorldHello World! World!
+  737  Hello World!
+  738  Hello WorldHello World! World!
+  739  Hello World!
+  740  Hello WorldHello World! World!
+  741  Hello World!
+  742  Hello WorldHello World! World!
+  743  Hello World!
+  744  Hello WorldHello World! World!
+  745  Hello World!
+  746  Hello WorldHello World! World!
+  747  Hello World!
+  748  Hello WorldHello World! World!
+  749  Hello World!
+  750  Hello WorldHello World! World!
+  751  Hello World!
+  752  Hello WorldHello World! World!
+  753  Hello World!
+  754  Hello WorldHello World! World!
+  755  Hello World!
+  756  Hello WorldHello World! World!
+  757  Hello World!
+  758  Hello WorldHello World! World!
+  759  Hello World!
+  760  Hello WorldHello World! World!
+  761  ./before-sketch-upload 
+  762  sudo  ./before-sketch-upload 
+  763  sudo chmod 777 /dev/ttyACM0 
+  764  nano after-sketch-upload
+  765  sudo chmod 777 after-sketch-upload 
+  766  ./after-sketch-upload 
+  767  sudo ./after-sketch-upload 
+  768  Hello World!
+  769  Hello WorldHello World! World!
+  770  Hello World!
+  771  ls
+  772  ./before-sketch-upload 
+  773  sudo ./before-sketch-upload 
+  774  sudo chmod 777 /dev/ttyACM0 
+  775  lsusb
+  776  sudo ./after-sketch-upload 
+  777  ls
+  778  lsusb
+  779  sudo ./before-sketch-upload 
+  780  sudo chmod 777 /dev/ttyACM0 
+  781  lsusb
+  782  sudo ./after-sketch-upload 
+  783  codium 
+  784  sudo chmod 777 /dev/ttyACM0 
+  785  sudo '/home/phil/Downloads/arduino-1.8.16-linux64/arduino-1.8.16/arduino' 
+  786  '/home/phil/arduino-ide_2.0.0-beta.11_Linux_64bit/arduino-ide' 
+  787  sudo nano /etc/rsyslog.d/50-default.conf 
+  788  sudo nano /etc/rsyslog.conf 
+  789  sudo nano /etc/rsyslog.d/50-default.conf 
+  790  sudo nano /etc/rsyslog.conf 
+  791  sudo nano /etc/rsyslog.d/50-default.conf 
+  792  python3.8 '/home/phil/prog/async_flask/application2.py'
+  793  python3.8 '/home/phil/prog/python-rtmidi/examples/basic/midiin_poll-my-3.py'
+  794  python3.8 '/home/phil/prog/python-rtmidi/examples/basic/midiin_poll-my-4-.py'
+  795  python3.8 '/home/phil/prog/python-rtmidi/examples/basic/midiin_poll-my-4.py'
+  796  python3.8 '/home/phil/prog/python-rtmidi/examples/basic/midiin_poll-my-4-.py'
+  797  python3.8 '/home/phil/prog/python-rtmidi/examples/basic/midiin_poll-my-4.py'
+  798  python3.8 '/home/phil/prog/async_flask/application2.py'
+  799  python3.8 '/home/phil/prog/async_flask/application1.py'
+  800  python3.8 '/home/phil/prog/async_flask/application2.py'
+  801  python3.8 '/home/phil/prog/async_flask/application.py'
+  802  ping free.fr
+  803  python3.8 '/home/phil/prog/async_REF/async_flask/application.py'
+  804  '/home/phil/Downloads/orca-linux-64/Orca' 
+  805  ssh pi@raspberrypi
+  806  ssh pi@raspberrypi.local
+  807  sudo gparted
+  808  git clone https://github.com/PolyMeilex/Neothesia.git
+  809  cd Neothesia/
+  810  sudo apt-get install cargo
+  811  cargo build --release --no-default-features
+  812  cargo build --release --no-default-features --features record
+  813  ping free.fr
+  814  ip
+  815  ip addr
+  816  ping free.fr
+  817  cargo build --release --no-default-features --features record
+  818  sudo apt-get install ffmpeg
+  819  ls
+  820  cd target/
+  821  ls
+  822  cd release/
+  823  ls
+  824  cd build/
+  825  ls
+  826  cd..
+  827  cd ..
+  828  cargo build --release --no-default-features --features record
+  829  cargo build --release --no-default-features
+  830  sudo apt-get install linux-libc-dev 
+  831  sudo apt-get install linux-headers-generic
+  832  cargo build --release --no-default-features --features record
+  833  cd ~/ffmpeg_sources && \
+  834  cd ..
+  835  cd ~/ffmpeg_sources && wget -O ffmpeg-snapshot.tar.bz2 https://ffmpeg.org/releases/ffmpeg-snapshot.tar.bz2 && \
+  836  mkdir ffmpeg_sources
+  837  cd ~/ffmpeg_sources && wget -O ffmpeg-snapshot.tar.bz2 https://ffmpeg.org/releases/ffmpeg-snapshot.tar.bz2 && \
+  838  cd ffmpeg_sources
+  839  wget -O ffmpeg-snapshot.tar.bz2 https://ffmpeg.org/releases/ffmpeg-snapshot.tar.bz2
+  840  tar xjvf ffmpeg-snapshot.tar.bz2
+  841  cd ffmpeg
+  842  PATH="$HOME/bin:$PATH"
+  843  PKG_CONFIG_PATH="$HOME/ffmpeg_build/lib/pkgconfig"
+  844  ./configure   --prefix="$HOME/ffmpeg_build"   --pkg-config-flags="--static"   --extra-cflags="-I$HOME/ffmpeg_build/include"   --extra-ldflags="-L$HOME/ffmpeg_build/lib"   --extra-libs="-lpthread -lm"   --ld="g++"   --bindir="$HOME/bin"   --enable-gpl   --enable-gnutls   --enable-libaom   --enable-libass   --enable-libfdk-aac   --enable-libfreetype   --enable-libmp3lame   --enable-libopus   --enable-libsvtav1   --enable-libdav1d   --enable-libvorbis   --enable-libvpx   --enable-libx264   --enable-libx265   --enable-nonfree && \
+  845  ./configure   --prefix="$HOME/ffmpeg_build"   --pkg-config-flags="--static"   --extra-cflags="-I$HOME/ffmpeg_build/include"   --extra-ldflags="-L$HOME/ffmpeg_build/lib"   --extra-libs="-lpthread -lm"   --ld="g++"   --bindir="$HOME/bin"   --enable-gpl   --enable-gnutls   --enable-libaom   --enable-libass   --enable-libfdk-aac   --enable-libfreetype   --enable-libmp3lame   --enable-libopus   --enable-libsvtav1   --enable-libdav1d   --enable-libvorbis   --enable-libvpx   --enable-libx264   --enable-libx265   --enable-nonfree && 
+  846  ./configure   --prefix="$HOME/ffmpeg_build"   --pkg-config-flags="--static"   --extra-cflags="-I$HOME/ffmpeg_build/include"   --extra-ldflags="-L$HOME/ffmpeg_build/lib"   --extra-libs="-lpthread -lm"   --ld="g++"   --bindir="$HOME/bin"   --enable-gpl   --enable-gnutls   --enable-libaom   --enable-libass   --enable-libfdk-aac   --enable-libfreetype   --enable-libmp3lame   --enable-libopus   --enable-libsvtav1   --enable-libdav1d   --enable-libvorbis   --enable-libvpx   --enable-libx264   --enable-libx265   --enable-nonfree
+  847  sudo apt-get install yasm
+  848  ./configure   --prefix="$HOME/ffmpeg_build"   --pkg-config-flags="--static"   --extra-cflags="-I$HOME/ffmpeg_build/include"   --extra-ldflags="-L$HOME/ffmpeg_build/lib"   --extra-libs="-lpthread -lm"   --ld="g++"   --bindir="$HOME/bin"   --enable-gpl   --enable-gnutls   --enable-libaom   --enable-libass   --enable-libfdk-aac   --enable-libfreetype   --enable-libmp3lame   --enable-libopus   --enable-libsvtav1   --enable-libdav1d   --enable-libvorbis   --enable-libvpx   --enable-libx264   --enable-libx265   --enable-nonfree
+  849  sudo apt-get install gnutls-bin 
+  850  ./configure   --prefix="$HOME/ffmpeg_build"   --pkg-config-flags="--static"   --extra-cflags="-I$HOME/ffmpeg_build/include"   --extra-ldflags="-L$HOME/ffmpeg_build/lib"   --extra-libs="-lpthread -lm"   --ld="g++"   --bindir="$HOME/bin"   --enable-gpl   --enable-gnutls   --enable-libaom   --enable-libass   --enable-libfdk-aac   --enable-libfreetype   --enable-libmp3lame   --enable-libopus   --enable-libsvtav1   --enable-libdav1d   --enable-libvorbis   --enable-libvpx   --enable-libx264   --enable-libx265   --enable-nonfree
+  851  sudo apt-get install libunistring-dev
+  852  ./configure   --prefix="$HOME/ffmpeg_build"   --pkg-config-flags="--static"   --extra-cflags="-I$HOME/ffmpeg_build/include"   --extra-ldflags="-L$HOME/ffmpeg_build/lib"   --extra-libs="-lpthread -lm"   --ld="g++"   --bindir="$HOME/bin"   --enable-gpl   --enable-gnutls   --enable-libaom   --enable-libass   --enable-libfdk-aac   --enable-libfreetype   --enable-libmp3lame   --enable-libopus   --enable-libsvtav1   --enable-libdav1d   --enable-libvorbis   --enable-libvpx   --enable-libx264   --enable-libx265   --enable-nonfree
+  853  apt install -y gnutls
+  854  sudo apt install -y gnutls
+  855  sudo apt install gnut
+  856  ./configure   --prefix="$HOME/ffmpeg_build"   --pkg-config-flags="--static"   --extra-cflags="-I$HOME/ffmpeg_build/include"   --extra-ldflags="-L$HOME/ffmpeg_build/lib"   --extra-libs="-lpthread -lm"   --ld="g++"   --bindir="$HOME/bin"   --enable-gpl   --enable-gnutls   --enable-libaom   --enable-libass   --enable-libfdk-aac   --enable-libfreetype   --enable-libmp3lame   --enable-libopus   --enable-libsvtav1   --enable-libdav1d   --enable-libvorbis   --enable-libvpx   --enable-libx264   --enable-libx265   --enable-nonfree
+  857  sudo apt install aom-tools 
+  858  ./configure   --prefix="$HOME/ffmpeg_build"   --pkg-config-flags="--static"   --extra-cflags="-I$HOME/ffmpeg_build/include"   --extra-ldflags="-L$HOME/ffmpeg_build/lib"   --extra-libs="-lpthread -lm"   --ld="g++"   --bindir="$HOME/bin"   --enable-gpl   --enable-gnutls   --enable-libaom   --enable-libass   --enable-libfdk-aac   --enable-libfreetype   --enable-libmp3lame   --enable-libopus   --enable-libsvtav1   --enable-libdav1d   --enable-libvorbis   --enable-libvpx   --enable-libx264   --enable-libx265   --enable-nonfree
+  859  ./configure   --prefix="$HOME/ffmpeg_build"   --pkg-config-flags="--static"   --extra-cflags="-I$HOME/ffmpeg_build/include"   --extra-ldflags="-L$HOME/ffmpeg_build/lib"   --extra-libs="-lpthread -lm"   --ld="g++"   --bindir="$HOME/bin"   --enable-gpl   --enable-gnutls   --disable-libaom   --enable-libass   --enable-libfdk-aac   --enable-libfreetype   --enable-libmp3lame   --enable-libopus   --enable-libsvtav1   --enable-libdav1d   --enable-libvorbis   --enable-libvpx   --enable-libx264   --enable-libx265   --enable-nonfree
+  860  PKG_CONFIG_PATH="$HOME/ffmpeg_build/lib/pkgconfig"
+  861  ./configure   --prefix="$HOME/ffmpeg_build"   --pkg-config-flags="--static"   --extra-cflags="-I$HOME/ffmpeg_build/include"   --extra-ldflags="-L$HOME/ffmpeg_build/lib"   --extra-libs="-lpthread -lm"   --ld="g++"   --bindir="$HOME/bin"   --enable-gpl   --enable-gnutls   --enable-libaom   --enable-libass   --enable-libfdk-aac   --enable-libfreetype   --enable-libmp3lame   --enable-libopus   --enable-libsvtav1   --enable-libdav1d   --enable-libvorbis   --enable-libvpx   --enable-libx264   --enable-libx265   --enable-nonfree
+  862  ./configure   --prefix="$HOME/ffmpeg_build"   --pkg-config-flags="--static"   --extra-cflags="-I$HOME/ffmpeg_build/include"   --extra-ldflags="-L$HOME/ffmpeg_build/lib"   --extra-libs="-lpthread -lm"   --ld="g++"   --bindir="$HOME/bin"   --enable-gpl   --enable-gnutls   --disable-libaom   --enable-libass   --enable-libfdk-aac   --enable-libfreetype   --enable-libmp3lame   --enable-libopus   --enable-libsvtav1   --enable-libdav1d   --enable-libvorbis   --enable-libvpx   --enable-libx264   --enable-libx265   --enable-nonfree
+  863  history
+  864  touch /media/phil/boot/ssh
+  865  ping raspberry.local
+  866  ping raspberrypi.local
+  867  ping raspberrypi
+  868  nmap -sn 192.168.1.0/24
+  869  ping raspberrypi.local
+  870  ssh pi@raspberry.local
+  871  ping raspberrypi.local
+  872  ssh pi@192.168.1.149
+  873  cd phil/Downloads/
+  874  ls
+  875  tar-xvzf gnutls-3.6.16.tar.xz 
+  876  tar -xvzf gnutls-3.6.16.tar.xz 
+  877  cd gnutls-3.6.16/
+  878  ./configure --prefix=/usr
+  879  sudo apt-get install nettle-dev
+  880  ./configure --prefix=/usr
+  881  ./configure --prefix=/usr --with-included-libtasn1
+  882  cd ..
+  883  cd p11-kit-0.24.0/
+  884  ls
+  885  python3.8 -m pip install meson
+  886  meson _build
+  887  python3 -m pip install ninja
+  888  meson _build
+  889  meson compile -C _build
+  890  meson test -C _build
+  891  cd ..
+  892  cd gnutls-3.6.16/
+  893  ./configure --prefix=/usr --with-included-libtasn1
+  894  cd ..
+  895  cd p11-kit-0.24.0/
+  896  ./configure 
+  897  make
+  898  ./configure --without-libtasn1
+  899  make
+  900  make install
+  901  sudo make install
+  902  cd ..
+  903  cd  Downloads/gnutls-3.6.16/
+  904  ./configure --prefix=/usr --with-included-libtasn1
+  905  make
+  906  sudo make install
+  907  cd ..
+  908  cd libass-0.15.2/
+  909  ls
+  910  ./configure 
+  911  make
+  912  sudo make install
+  913  cd ..
+  914  git clone git@code.videolan.org:videolan/dav1d.git
+  915  git clone https://code.videolan.org/videolan/dav1d.git
+  916  cd dav1d/
+  917  mkdir build
+  918  cd build/
+  919  meson 
+  920  sudo apt-get install nasm
+  921  meson 
+  922  ninja 
+  923  make
+  924  make install
+  925  cd ..
+  926  ./configure
+  927  meson --default-library=static
+  928  sudo snap install dav1d
+  929  sudo ninja install
+  930  ninja install
+  931  cd build/
+  932  sudo ninja install
+  933  ninja 
+  934  sudo ninja install
+  935  ninja install
+  936  sudo ninja install
+  937  locate ninja
+  938  sudo su
+  939  whereis ninja
+  940  cp /home/phil/.local/bin/ninja
+  941  cp /home/phil/.local/bin/ninja /usr/bin//
+  942  sudo cp /home/phil/.local/bin/ninja /usr/bin//
+  943  sudo ninja install
+  944  ninja install
+  945  cd ..
+  946  git clone --depth 1 git://github.com/mstorsjo/fdk-aac.git
+  947  cd fdk-aac/
+  948  ls
+  949  ./configure
+  950  autoreconf -fiv
+  951  sudo apt-get install autoconf
+  952  autoreconf -fiv
+  953  ./configure 
+  954  sudo apt-get install gddrescue 
+  955  ddrescue 
+  956  sudo apt-get install ddrescueview  
+  957  ddrescue 
+  958  ddrescue --hel
+  959  sudo apt-get install testdisk
+  960  sudo '/home/phil/Downloads/testdisk-7.2-WIP.linux26-x86_64/testdisk-7.2-WIP/photorec.8' 
+  961  '/home/phil/Downloads/testdisk-7.2-WIP.linux26-x86_64/testdisk-7.2-WIP/photorec_static' 
+  962  sudo '/home/phil/Downloads/testdisk-7.2-WIP.linux26-x86_64/testdisk-7.2-WIP/photorec_static'
+  963  sudo apt-get install foremost 
+  964  formost -h
+  965  foremost -h
+  966  /usr/local/R-Linux/bin/rlinux 
+  967  sudo /usr/local/R-Linux/bin/R-linux 
+  968  sudo /usr/local/R-Linux/bin/rlinux 
+  969  cd '/media/phil/0403-0201/FOLDER01 
+  970  exit
+  971  ls /media/phil/0403-0201/FOLDER01
+  972  ls /media/phil/0403-0201
+  973  ls -l /media/phil/0403-0201
+  974  ls -a /media/phil/0403-0201
+  975  ls -d .* /media/phil/0403-0201
+  976  cd /media/phil/0403-0201
+  977  ls -d .*
+  978  cd .Spotlight-V100/
+  979  ls
+  980  cd Store-V
+  981  cd Store-V1/
+  982  ls
+  983  cd ..
+  984  ls -d .*
+  985  cd .
+  986  ls
+  987  cd ..
+  988  ls
+  989  cd 0403-0201/
+  990  cd /home/
+  991  nmap -sn 192.168.1.0/24
+  992  ping rapsberrypi.local
+  993  ping raspberrypi.local
+  994  ssh pi@raspberrypi.local
+  995  cd cassetter/
+  996  npm run dev
+  997  '/home/phil/Downloads/pilot-linux-64/Pilot' 
+  998  ssh pi@raspberrypi.local
+  999  sudo gparted
+ 1000  cp Downloads/You.S03E06.MULTi.1080p.WEB.x264-FRATERNiTY.mkv /media/phil/3BA2-20B0
+ 1001  cp Downloads/You.S03E07.MULTi.1080p.WEB.x264-FRATERNiTY.mkv 
+ 1002  cp Downloads/You.S03E07.MULTi.1080p.WEB.x264-FRATERNiTY.mkv /media/phil/3BA2-20B0
+ 1003  apt-get install python3.9
+ 1004  sudo apt-get install python3.9
+ 1005  ls
+ 1006  cd Downloads/
+ 1007  ls
+ 1008  '/home/phil/Downloads/Anaconda3-2021.11-Linux-x86_64.sh' 
+ 1009  sudo '/home/phil/Downloads/Anaconda3-2021.11-Linux-x86_64.sh' 
+ 1010  sudo ./home/phil/Downloads/Anaconda3-2021.11-Linux-x86_64.sh
+ 1011  sudo chmod 777 /home/phil/Downloads/Anaconda3-2021.11-Linux-x86_64.sh
+ 1012  sudo ./home/phil/Downloads/Anaconda3-2021.11-Linux-x86_64.sh
+ 1013  bash /home/phil/Downloads/Anaconda3-2021.11-Linux-x86_64.sh
+ 1014  bash /home/phil/Downloads/Anaconda3-2021.11-Linux-x86_64.sh
+ 1015  bash /home/phil/Downloads/Anaconda3-2021.11-Linux-x86_64.sh -u
+ 1016  mkdir CLASS-PYTHON
+ 1017  df -h
+ 1018  sudo gparted
+ 1019  df -h
+ 1020  df  -h
+ 1021  history
+ 1022  cd /media/phil
+ 1023  ls
+ 1024  cd USB\ DISK/
+ 1025  ls
+ 1026  for i in *.aif; do ffmpeg -i "$i" -f mp3 "${i%}.mp3"; done
+ 1027  cd ..
+ 1028  ls
+ 1029  cd USB\ DISK/
+ 1030  ls
+ 1031  for i in *.aif; do ffmpeg -i "$i" -f mp3 "${i%}.mp3"; done
+ 1032  cd ..
+ 1033  cd USB\ DISK/
+ 1034  for i in *.aif; do ffmpeg -i "$i" -f mp3 "${i%}.mp3"; done
+ 1035  javac '/home/phil/JAVA/Saisie.java'
+ 1036  java /home/phil/JAVA/Saisie
+ 1037  java saisi
+ 1038  java Saisie 
+ 1039  javac Saisie2.java 
+ 1040  java Saisie 2
+ 1041  javac Saisie2.java 
+ 1042  java Saisie2
+ 1043  javac Saisie2.java 
+ 1044  java Saisie2
+ 1045  javac Saisie2.java 
+ 1046  java Saisie2
+ 1047  javac Saisie2.java 
+ 1048  java Saisie2
+ 1049  javac Celsius.java 
+ 1050  java Celsius 
+ 1051  javac Celsius.java 
+ 1052  java Celsius 
+ 1053  javac Test.java 
+ 1054  java Test 
+ 1055  javac Test.java 
+ 1056  java Test 
+ 1057  javac Test.java 
+ 1058  java Test 
+ 1059  javac Test.java 
+ 1060  java Test 
+ 1061  javac DataArtist.java 
+ 1062  java DataArtist 
+ 1063  javac DataArtist.java 
+ 1064  java DataArtist 
+ 1065  javac DataArtist.java 
+ 1066  java DataArtist 
+ 1067  javac DataArtist.java 
+ 1068  java DataArtist 
+ 1069  javac DataArtist.java 
+ 1070  java DataArtist 
+ 1071  javac DataArtist.java 
+ 1072  java DataArtist 
+ 1073  javac DataArtist.java 
+ 1074  java DataArtist 
+ 1075  javac TestMath.java 
+ 1076  java DataArtist 
+ 1077  java TestMath 
+ 1078  javac TestMath.java 
+ 1079  java TestMath 
+ 1080  javac TestMath.java 
+ 1081  java TestMath 
+ 1082  javac TestMath.java 
+ 1083  java TestMath 
+ 1084  javac TestMath.java 
+ 1085  java TestMath 
+ 1086  javac TestMath.java 
+ 1087  java TestMath 
+ 1088  javac TestMath.java 
+ 1089  java TestMath 
+ 1090  javac TestMath.java 
+ 1091  java TestMath 
+ 1092  java TestMath \
+ 1093  java TestMath 
+ 1094  java TestMath \
+ 1095  javac TestCalendar.java 
+ 1096  java TestCalendar 
+ 1097  javac TestCalendar.java 
+ 1098  java TestCalendar 
+ 1099  javac TestCalendar.java 
+ 1100  java TestCalendar 
+ 1101  javac TestCalendar.java 
+ 1102  javac -Xdiags:verbose TestCalendar.java 
+ 1103  javac TestCalendar.java 
+ 1104  java TestCalendar 
+ 1105  javac TestCalendar.java 
+ 1106  java TestCalendar 
+ 1107  javac TestCalendar.java 
+ 1108  java TestCalendar 
+ 1109  javac TestCalendar.java 
+ 1110  java TestCalendar 
+ 1111  javac TestCalendar.java 
+ 1112  java TestCalendar 
+ 1113  javac TestCalendar.java 
+ 1114  java TestCalendar 
+ 1115  javac TestCalendar.java 
+ 1116  java TestCalendar 
+ 1117  javac TestVar.java 
+ 1118  java Testvar
+ 1119  java TestVar 
+ 1120  javac C.java
+ 1121  java C
+ 1122  javac C.java
+ 1123  java C
+ 1124  javac TestParam.java 
+ 1125  java TestParam 
+ 1126  javac Pile.java 
+ 1127  javac TestPile.java 
+ 1128  java TestPile 
+ 1129  javac Pile.java 
+ 1130  java TestPile 
+ 1131  javac Pile.java 
+ 1132  java TestPile 
+ 1133  javac Pile.java 
+ 1134  java TestPile 
+ 1135  javac Pile.java 
+ 1136  java TestPile 
+ 1137  javac Pile.java 
+ 1138  java TestPile 
+ 1139  javac TestPile.java 
+ 1140  java TestPile 
+ 1141  javac TestPile.java 
+ 1142  javac Pile.java 
+ 1143  java TestPile 
+ 1144  javac Pile.java 
+ 1145  java TestPile 
+ 1146  javac Pile.java 
+ 1147  java TestPile 
+ 1148  javac Pile.java 
+ 1149  java TestPile 
+ 1150  javac Pile.java 
+ 1151  java TestPile 
+ 1152  javac Pile.java 
+ 1153  java TestPile 
+ 1154  javac Pile.java 
+ 1155  java TestPile 
+ 1156  javac Pile.java 
+ 1157  java TestPile 
+ 1158  javac Pile.java 
+ 1159  java TestPile 
+ 1160  javac Pile2.java 
+ 1161  cleqr
+ 1162  clear
+ 1163  javac Pile2.java 
+ 1164  clear
+ 1165  javac Pile2.java 
+ 1166  clear
+ 1167  javac Pile2.java 
+ 1168  clear
+ 1169  javac Pile2.java 
+ 1170  javac TestPile.java 
+ 1171  javac Pile2.java 
+ 1172  javac TestPile.java 
+ 1173  javac TestPile2.java 
+ 1174  javac Pile2.java 
+ 1175  javac TestPile2.java 
+ 1176  javac Pile2.java 
+ 1177  javac TestPile2.java 
+ 1178  java TestPile2 
+ 1179  javac TestPile2.java 
+ 1180  java TestPile2 
+ 1181  javac PileException.java 
+ 1182  javac TestPileException.java
+ 1183  java TestPileException
+ 1184  javac TestPoint.java 
+ 1185  javac Point.java 
+ 1186  java TestPoint 
+ 1187  javac Point.java 
+ 1188  java TestPoint 
+ 1189  javac TestPoint.java 
+ 1190  javadoc -d docPoint Point.java
+ 1191  ls docPoint/
+ 1192  javac TestPoint.java 
+ 1193  javac Point.java 
+ 1194  java TestPoint 
+ 1195  javac Point.java 
+ 1196  java TestPoint 
+ 1197  javac Point.java 
+ 1198  javac TestPoint.java 
+ 1199  java TestPoint 
+ 1200  javac TestPoint.java 
+ 1201  java TestPoint 
+ 1202  javac Point.java 
+ 1203  java TestPoint 
+ 1204  javac TestPoint.java 
+ 1205  java TestPoint 
+ 1206  javac TestPoint.java 
+ 1207  javac Point.java 
+ 1208  javac TestPoint.java 
+ 1209  java TestPoint 
+ 1210  javac Point.java 
+ 1211  java TestPoint 
+ 1212  javac Point.java 
+ 1213  java TestPoint 
+ 1214  javac Point.java 
+ 1215  java TestPoint 
+ 1216  javac Drawings.java 
+ 1217  javac Drawing.java 
+ 1218  java Drawing 
+ 1219  javac DrawingCanvas.java 
+ 1220  clear
+ 1221  javac DrawingCanvas.java 
+ 1222  clear
+ 1223  javac DrawingCanvas.java 
+ 1224  clear
+ 1225  javac DrawingCanvas.java 
+ 1226  javac DrawingTester.java 
+ 1227  clear
+ 1228  javac DrawingTester.java 
+ 1229  javac JFrameSize.java 
+ 1230  java JFrameSize
+ 1231  javac DrawingTester.java 
+ 1232  javac JFrameSize.java 
+ 1233  java JFrameSize
+ 1234  javac JFrameSize.java 
+ 1235  java JFrameSize
+ 1236  javac JFrameSize.java 
+ 1237  java JFrameSize
+ 1238  javac TestFrameSize01.java 
+ 1239  java TestFrameSize01 
+ 1240  javac DrawingTester.java 
+ 1241  java TestFrameSize01 
+ 1242  javac DrawingTester.java 
+ 1243  java DrawingTester 
+ 1244  javac DrawingCanvas.java 
+ 1245  java DrawingTester 
+ 1246  javac DrawingCanvas.java 
+ 1247  java DrawingTester 
+ 1248  javac DrawingCanvas.java 
+ 1249  java DrawingTester 
+ 1250  javac DrawingCanvas.java 
+ 1251  java DrawingTester 
+ 1252  javac DrawingCanvas.java 
+ 1253  java DrawingTester 
+ 1254  javac DrawingCanvas.java 
+ 1255  java DrawingTester 
+ 1256  javac DrawingCanvas.java 
+ 1257  java DrawingTester 
+ 1258  javac DurationTest.java 
+ 1259  java DurationTest 
+ 1260  javac animationTuto.java 
+ 1261  javac AnimationTuto.java 
+ 1262  java AnimationTuto 
+ 1263  javac AnimationTuto.java 
+ 1264  java AnimationTuto 
+ 1265  javac AnimationTuto.java 
+ 1266  java AnimationTuto 
+ 1267  javac AnimationTuto.java 
+ 1268  java AnimationTuto 
+ 1269  history
+ 1270  history >> history.txt
